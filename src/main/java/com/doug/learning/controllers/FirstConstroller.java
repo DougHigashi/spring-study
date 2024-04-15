@@ -9,7 +9,7 @@ public class FirstConstroller {
 
 	@GetMapping(path = { "/ola", "/tigrinho" })
 	public String ola() {
-		return "Olá Spring Boot!";
+		return "Ola Spring Boot!";
 	}
 	
 	@PostMapping(path = { "/tigrinho" })

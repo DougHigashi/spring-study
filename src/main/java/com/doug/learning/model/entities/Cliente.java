@@ -1,4 +1,4 @@
-package com.doug.learning.Models;
+package com.doug.learning.model.entities;
 
 public class Cliente {
 	
